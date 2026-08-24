@@ -16,11 +16,42 @@
   var id = qs('id');
   var host = d.getElementById('pdp');
 
+  /* Point the page's share card at this product. Crawlers that do not run
+     JavaScript still get the generic card baked into product.html. */
+  function setShareCard(p) {
+    var origin = location.origin;
+    var img = (p.img && (p.img.m1600 || p.img.a1600 || p.img.a900)) || '';
+    var meta = {
+      'og:title': p.title + ' — Urban Monkey®',
+      'og:description': (p.description || '').slice(0, 160) || 'Urban Monkey — worn on the street.',
+      'og:url': location.href,
+      'twitter:title': p.title + ' — Urban Monkey®'
+    };
+    if (img) {
+      meta['og:image'] = origin + '/' + img;
+      meta['twitter:image'] = origin + '/' + img;
+    }
+    Object.keys(meta).forEach(function (k) {
+      var sel = /^og:/.test(k) ? 'meta[property="' + k + '"]' : 'meta[name="' + k + '"]';
+      var el = d.querySelector(sel);
+      if (!el) {
+        el = d.createElement('meta');
+        el.setAttribute(/^og:/.test(k) ? 'property' : 'name', k);
+        d.head.appendChild(el);
+      }
+      el.setAttribute('content', meta[k]);
+    });
+    var can = d.querySelector('link[rel=canonical]');
+    if (!can) { can = d.createElement('link'); can.rel = 'canonical'; d.head.appendChild(can); }
+    can.href = origin + '/product.html?id=' + encodeURIComponent(p.id);
+  }
+
   UM.getCatalog().then(function (cat) {
     var p = UM.findProduct(cat, id);
     if (!p) return notFound();
 
     d.title = p.title + ' — Urban Monkey®';
+    setShareCard(p);
 
     var cut = p.cut || {};
     var hero = cut.lg || cut.a || p.img.a1600 || p.img.a900;
