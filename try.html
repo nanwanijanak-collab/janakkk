@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Try &amp; Use — Urban Monkey®</title>
+<meta name="description" content="Try Urban Monkey caps, hoodies and eyewear on yourself — live in your browser.">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="assets/img/brand/um-mark.png">
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+<main class="tryp">
+  <section class="tryp__hd">
+    <p class="eyebrow">Try &amp; Use</p>
+    <h1 class="h-big">See it on you</h1>
+    <p class="lede">Turn on the camera and the piece tracks your head, face and shoulders.
+      No app, no upload — everything runs on your device.</p>
+  </section>
+
+  <section class="tryp__stage">
+    <div class="stage" id="stage">
+      <video id="cam" playsinline muted></video>
+      <canvas id="out"></canvas>
+      <img id="still" alt="" hidden>
+
+      <div class="stage__idle" id="idle">
+        <img src="assets/img/brand/um-mark.png" alt="" class="stage__mark">
+        <p class="mono">Camera off</p>
+        <div class="stage__btns">
+          <button class="btn btn--solid" id="camBtn">Start camera</button>
+          <label class="btn btn--ghost" for="photo">Use a photo instead</label>
+          <input type="file" id="photo" accept="image/*" hidden>
+        </div>
+        <p class="stage__note mono" id="note"></p>
+      </div>
+
+      <div class="stage__bar" id="bar" hidden>
+        <span class="mono" id="status">Tracking</span>
+        <div class="stage__actions">
+          <button class="mono" id="mirrorBtn">Mirror</button>
+          <button class="mono" id="shotBtn">Snapshot</button>
+          <button class="mono" id="stopBtn">Stop</button>
+        </div>
+      </div>
+    </div>
+
+    <aside class="tryp__pick">
+      <div class="tryp__tabs" id="tabs">
+        <button class="on" data-c="caps">Caps</button>
+        <button data-c="eyewear">Eyewear</button>
+        <button data-c="hoodies">Hoodies</button>
+      </div>
+      <div class="tryp__list" id="list"></div>
+      <div class="tryp__buy" id="buy" hidden></div>
+    </aside>
+  </section>
+</main>
+
+<script src="data/catalog.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/tryon.js"></script>
+</body>
+</html>

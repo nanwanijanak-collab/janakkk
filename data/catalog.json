@@ -1,0 +1,1322 @@
+{
+    "caps":  [
+                 {
+                     "id":  "um-archives-002",
+                     "title":  "Um archives // 002",
+                     "type":  "Baseball Caps",
+                     "price":  1500,
+                     "compareAt":  0,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "44572090368281",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1500
+                                   }
+                               ],
+                     "description":  "This classic combination of light blue denim and a beautiful tan suede brim is an Urban monkey signature. Featuring high defintion embroidery patches all over, this baseball cap is an ode to our sold out bestsellers. Featuring our iconic vintage designs from the past for an unexpected twist. This summer, go beyond...",
+                     "img":  {
+                                 "a900":  "assets/img/products/um-archives-002-a-900.jpg",
+                                 "a1600":  "assets/img/products/um-archives-002-a-1600.jpg",
+                                 "b900":  "assets/img/products/um-archives-002-b-900.jpg",
+                                 "m1600":  "assets/img/products/um-archives-002-m-1600.jpg",
+                                 "mBytes":  55941
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/um-archives-002",
+                     "cut":  {
+                                 "a":  "assets/img/cut/um-archives-002-a.webp",
+                                 "b":  "assets/img/cut/um-archives-002-b.webp",
+                                 "lg":  "assets/img/cut/um-archives-002-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "brunch-club",
+                     "title":  "Brunch Club",
+                     "type":  "Baseball Caps",
+                     "price":  1250,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "52189387227417",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1250
+                                   }
+                               ],
+                     "description":  "Membership has its privileges. Brunch Club is for the ones with a standing reservation and a group chat that never sleeps. Soft beige 100% cotton in a relaxed dad cap silhouette, dressed up just enough with a retro pink groovy embroidery right at the front because brunch is never just a meal, it\u0027s a whole aesthetic....",
+                     "img":  {
+                                 "a900":  "assets/img/products/brunch-club-a-900.jpg",
+                                 "a1600":  "assets/img/products/brunch-club-a-1600.jpg",
+                                 "b900":  "assets/img/products/brunch-club-b-900.jpg",
+                                 "m1600":  "assets/img/products/brunch-club-m-1600.jpg",
+                                 "mBytes":  1076651
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/brunch-club",
+                     "cut":  {
+                                 "a":  "assets/img/cut/brunch-club-a.webp",
+                                 "b":  "assets/img/cut/brunch-club-b.webp",
+                                 "lg":  "assets/img/cut/brunch-club-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "ghost-racer",
+                     "title":  "Ghost Racer",
+                     "type":  "Baseball Caps",
+                     "price":  1350,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "51227907227929",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1350
+                                   }
+                               ],
+                     "description":  "Built for the fast lane. Crafted in faux leather with bold three-colour panelling, the cap features our signature metal badge for a sharp focal point. The structured crown holds form, while the cotton sweatband ensures comfort through long wear.",
+                     "img":  {
+                                 "a900":  "assets/img/products/ghost-racer-a-900.jpg",
+                                 "a1600":  "assets/img/products/ghost-racer-a-1600.jpg",
+                                 "b900":  "assets/img/products/ghost-racer-b-900.jpg",
+                                 "m1600":  "assets/img/products/ghost-racer-m-1600.jpg",
+                                 "mBytes":  1348593
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/ghost-racer",
+                     "cut":  {
+                                 "a":  "assets/img/cut/ghost-racer-a.webp",
+                                 "b":  "assets/img/cut/ghost-racer-b.webp",
+                                 "lg":  "assets/img/cut/ghost-racer-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "ghost-trucker",
+                     "title":  "Ghost Trucker",
+                     "type":  "Baseball Caps",
+                     "price":  1250,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "51227898839321",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1250
+                                   }
+                               ],
+                     "description":  "A refined take on the classic trucker. Crafted from 280 GSM cotton with breathable black mesh panels, this dual-fabric construction balances structure and airflow. The signature metal triangle badge anchors the front, while high-definition raised embroidery adds subtle dimension.",
+                     "img":  {
+                                 "a900":  "assets/img/products/ghost-trucker-a-900.jpg",
+                                 "a1600":  "assets/img/products/ghost-trucker-a-1600.jpg",
+                                 "b900":  "assets/img/products/ghost-trucker-b-900.jpg",
+                                 "m1600":  "assets/img/products/ghost-trucker-m-1600.jpg",
+                                 "mBytes":  49013
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/ghost-trucker",
+                     "cut":  {
+                                 "a":  "assets/img/cut/ghost-trucker-a.webp",
+                                 "b":  "assets/img/cut/ghost-trucker-b.webp",
+                                 "lg":  "assets/img/cut/ghost-trucker-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "foldable-camper-cap-black",
+                     "title":  "Foldable Camper Cap With Pocket // Black",
+                     "type":  "Dad Caps",
+                     "price":  1850,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "50011365015833",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1850
+                                   }
+                               ],
+                     "description":  "Folds. Packs. Stores and Adapts. The camper cap is designed for those who demand more from their gear. Crafted from 100% water-resistant nylon to shield you from unexpected drizzles, itÃ¢â‚¬â„¢s built to withstand the elements. A foldable brim with reflective detailing ensures visibility, while a built-in zip pocket + extra...",
+                     "img":  {
+                                 "a900":  "assets/img/products/foldable-camper-cap-black-a-900.jpg",
+                                 "a1600":  "assets/img/products/foldable-camper-cap-black-a-1600.jpg",
+                                 "b900":  "assets/img/products/foldable-camper-cap-black-b-900.jpg",
+                                 "m1600":  "assets/img/products/foldable-camper-cap-black-m-1600.jpg",
+                                 "mBytes":  620052
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/foldable-camper-cap-black",
+                     "cut":  {
+                                 "a":  "assets/img/cut/foldable-camper-cap-black-a.webp",
+                                 "b":  "assets/img/cut/foldable-camper-cap-black-b.webp",
+                                 "lg":  "assets/img/cut/foldable-camper-cap-black-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "matcha",
+                     "title":  "Matcha",
+                     "type":  "Baseball Caps",
+                     "price":  1300,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "52189385818393",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  1300
+                                   }
+                               ],
+                     "description":  "Not a trend. A whole personality. Matcha is for the ones who ordered it before it was cool and never stopped. A cream corduroy crown meets a forest green brim, textured and earthy, like the drink it\u0027s named after. Bold varsity lettering arches across the front. This is the cap for the ceramic cup over the paper one....",
+                     "img":  {
+                                 "a900":  "assets/img/products/matcha-a-900.jpg",
+                                 "a1600":  "assets/img/products/matcha-a-1600.jpg",
+                                 "b900":  "assets/img/products/matcha-b-900.jpg",
+                                 "m1600":  "assets/img/products/matcha-m-1600.jpg",
+                                 "mBytes":  51336
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/matcha",
+                     "cut":  {
+                                 "a":  "assets/img/cut/matcha-a.webp",
+                                 "b":  "assets/img/cut/matcha-b.webp",
+                                 "lg":  "assets/img/cut/matcha-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "chrome-stars",
+                     "title":  "Chrome Stars",
+                     "type":  "Baseball Caps",
+                     "price":  2000,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "51707416936729",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  2000
+                                   }
+                               ],
+                     "description":  "Built in a premium faux leather, this all-black baseball cap carries the full weight of Urban Monkey\u0027s 14 years on the streets. Up front, the \"Urban Monkey\" nameplate sits bold and raised. A 3D TPU badge finished in metallic silver that catches light the way only the real ones do. Silver star studs line the brim for...",
+                     "img":  {
+                                 "a900":  "assets/img/products/chrome-stars-a-900.jpg",
+                                 "a1600":  "assets/img/products/chrome-stars-a-1600.jpg",
+                                 "b900":  "assets/img/products/chrome-stars-b-900.jpg",
+                                 "m1600":  "assets/img/products/chrome-stars-m-1600.jpg",
+                                 "mBytes":  153004
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/chrome-stars",
+                     "cut":  {
+                                 "a":  "assets/img/cut/chrome-stars-a.webp",
+                                 "b":  "assets/img/cut/chrome-stars-b.webp",
+                                 "lg":  "assets/img/cut/chrome-stars-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "dragonfly",
+                     "title":  "Dragonfly",
+                     "type":  "Dad Caps",
+                     "price":  999,
+                     "compareAt":  null,
+                     "available":  true,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "51262296621337",
+                                       "label":  "Default Title",
+                                       "available":  true,
+                                       "price":  999
+                                   }
+                               ],
+                     "description":  "A minimal off-white dad cap is detailed with a finely embroidered dragonfly and crafted from 100% cotton.. Understated. Balanced. Easy to wear.",
+                     "img":  {
+                                 "a900":  "assets/img/products/dragonfly-a-900.jpg",
+                                 "a1600":  "assets/img/products/dragonfly-a-1600.jpg",
+                                 "b900":  "assets/img/products/dragonfly-b-900.jpg",
+                                 "m1600":  "assets/img/products/dragonfly-m-1600.jpg",
+                                 "mBytes":  180678
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/dragonfly",
+                     "cut":  {
+                                 "a":  "assets/img/cut/dragonfly-a.webp",
+                                 "b":  "assets/img/cut/dragonfly-b.webp",
+                                 "lg":  "assets/img/cut/dragonfly-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "billions-002",
+                     "title":  "Billions // 002",
+                     "type":  "Snapback Caps",
+                     "price":  1250,
+                     "compareAt":  0,
+                     "available":  false,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "51362535430",
+                                       "label":  "Default Title",
+                                       "available":  false,
+                                       "price":  1250
+                                   }
+                               ],
+                     "description":  "Master the art of hiding in plain sight with this black snapback by Urban Monkey. Whether you\u0027re dodging a certain someone, or just looking to fly under the radar, this piece makes the perfect partner in crime. SNAPBACK",
+                     "img":  {
+                                 "a900":  "assets/img/products/billions-002-a-900.jpg",
+                                 "a1600":  "assets/img/products/billions-002-a-1600.jpg",
+                                 "b900":  "assets/img/products/billions-002-b-900.jpg",
+                                 "m1600":  "assets/img/products/billions-002-m-1600.jpg",
+                                 "mBytes":  34417
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/billions-002",
+                     "cut":  {
+                                 "a":  "assets/img/cut/billions-002-a.webp",
+                                 "b":  "assets/img/cut/billions-002-b.webp",
+                                 "lg":  "assets/img/cut/billions-002-lg.webp"
+                             }
+                 },
+                 {
+                     "id":  "vintage-camera-snapback-cap-the-nostalgia-collection",
+                     "title":  "Vintage Camera",
+                     "type":  "Baseball Caps",
+                     "price":  1350,
+                     "compareAt":  0,
+                     "available":  false,
+                     "oneSize":  true,
+                     "sizes":  [
+                                   {
+                                       "id":  "12610726658132",
+                                       "label":  "Default Title",
+                                       "available":  false,
+                                       "price":  1350
+                                   }
+                               ],
+                     "description":  "Hybrid mix of a Snapback + Baseball Cap in cotton twill finished with stitched eyelets for breathability and an adjustable buckle strap for the perfect fit. This cap was designed for the vintage lovers. Team it with basic white tee, high waist jeans, bomber jacket, white sneakers.",
+                     "img":  {
+                                 "a900":  "assets/img/products/vintage-camera-snapback-cap-the-nostalgia-collection-a-900.jpg",
+                                 "a1600":  "assets/img/products/vintage-camera-snapback-cap-the-nostalgia-collection-a-1600.jpg",
+                                 "b900":  "assets/img/products/vintage-camera-snapback-cap-the-nostalgia-collection-b-900.jpg",
+                                 "m1600":  "assets/img/products/vintage-camera-snapback-cap-the-nostalgia-collection-m-1600.jpg",
+                                 "mBytes":  83778
+                             },
+                     "href":  "https://www.urbanmonkey.com/products/vintage-camera-snapback-cap-the-nostalgia-collection",
+                     "cut":  {
+                                 "a":  "assets/img/cut/vintage-camera-snapback-cap-the-nostalgia-collection-a.webp",
+                                 "b":  "assets/img/cut/vintage-camera-snapback-cap-the-nostalgia-collection-b.webp",
+                                 "lg":  "assets/img/cut/vintage-camera-snapback-cap-the-nostalgia-collection-lg.webp"
+                             }
+                 }
+             ],
+    "hoodies":  [
+                    {
+                        "id":  "legacy-hoodie-001",
+                        "title":  "Legacy Hoodie // 001",
+                        "type":  "Hoodies",
+                        "price":  1999,
+                        "compareAt":  2850,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "47346141167897",
+                                          "label":  "XS",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141233433",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141266201",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141298969",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141331737",
+                                          "label":  "XL",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141364505",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141397273",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "47346141430041",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  1999
+                                      }
+                                  ],
+                        "description":  "This black oversized hoodie from our LegacyÃ¢â€žÂ¢ collection crafted from a weighty cotton blend is a collector\u0027s piece that encapsulates the evolution of the iconic Urban Monkey logo. On this hoodie, witness a tale of Urban Monkey\u0027s journey through the concrete jungles to streetwear supremacy. From its inception to the...",
+                        "img":  {
+                                    "a900":  "assets/img/products/legacy-hoodie-001-a-900.jpg",
+                                    "a1600":  "assets/img/products/legacy-hoodie-001-a-1600.jpg",
+                                    "b900":  "assets/img/products/legacy-hoodie-001-b-900.jpg",
+                                    "m1600":  "assets/img/products/legacy-hoodie-001-m-1600.jpg",
+                                    "mBytes":  62928
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/legacy-hoodie-001",
+                        "cut":  {
+                                    "a":  "assets/img/cut/legacy-hoodie-001-a.webp",
+                                    "b":  "assets/img/cut/legacy-hoodie-001-b.webp",
+                                    "lg":  "assets/img/cut/legacy-hoodie-001-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "serpent-hoodie",
+                        "title":  "Serpent Hoodie",
+                        "type":  "Hoodies",
+                        "price":  1500,
+                        "compareAt":  2150,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "51209685893401",
+                                          "label":  "XS",
+                                          "available":  true,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209685926169",
+                                          "label":  "S",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209685958937",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209685991705",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209686024473",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209686057241",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209686090009",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209686122777",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      }
+                                  ],
+                        "description":  "This piece is an evolution of our iconic Tail Eater tee, carrying forward its meaning but with a bolder statement. The snake graphics wrapping both sleeves symbolize power, focus, and control over oneÃ¢â‚¬â„¢s emotions, turning this hoodie into a wearable reminder of inner strength. A double-layered hood with drawcords and...",
+                        "img":  {
+                                    "a900":  "assets/img/products/serpent-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/serpent-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/serpent-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/serpent-hoodie-m-1600.jpg",
+                                    "mBytes":  930435
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/serpent-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/serpent-hoodie-a.webp",
+                                    "b":  "assets/img/cut/serpent-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/serpent-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "umsb-paisley-hoodie",
+                        "title":  "Umsb Paisley Hoodie",
+                        "type":  "Hoodies",
+                        "price":  1399,
+                        "compareAt":  2000,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "51209688908057",
+                                          "label":  "XS",
+                                          "available":  true,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209688940825",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209688973593",
+                                          "label":  "M",
+                                          "available":  true,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209689006361",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209689039129",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209689071897",
+                                          "label":  "2XL",
+                                          "available":  true,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209689104665",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  1399
+                                      },
+                                      {
+                                          "id":  "51209689137433",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  1399
+                                      }
+                                  ],
+                        "description":  "The UMSB Walnut Hoodie is a laid-back essential built for comfort that lasts. Cut in a deep walnut brown, itÃ¢â‚¬â„¢s finished with a bold graphic at the front and subtle star detailing across the hood for a touch of character. Made with soft brushed fleece, the fit is easy without feeling oversized, while the kangaroo...",
+                        "img":  {
+                                    "a900":  "assets/img/products/umsb-paisley-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/umsb-paisley-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/umsb-paisley-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/umsb-paisley-hoodie-m-1600.jpg",
+                                    "mBytes":  77787
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/umsb-paisley-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/umsb-paisley-hoodie-a.webp",
+                                    "b":  "assets/img/cut/umsb-paisley-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/umsb-paisley-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "pulse-hoodie-mtv-x-urban-monkey",
+                        "title":  "Pulse Hoodie_MTV x Urban Monkey",
+                        "type":  "Hoodies",
+                        "price":  1999,
+                        "compareAt":  2850,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "49772696371481",
+                                          "label":  "XS",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772696404249",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772696437017",
+                                          "label":  "M",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772696469785",
+                                          "label":  "L",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772696502553",
+                                          "label":  "XL",
+                                          "available":  true,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772696535321",
+                                          "label":  "2XL",
+                                          "available":  true,
+                                          "price":  1999
+                                      }
+                                  ],
+                        "description":  "Mtv X Urban Monkey Oversized Hoodie Ã¢â‚¬â€œ Purple. Purple is the new power move. After the success of our first collaboration, we are back with 2.0, bringing the heat and a fresh twist on street culture. This oversized unisex hoodie combines bold design with superior comfort, crafted to celebrate the underground hip-hop...",
+                        "img":  {
+                                    "a900":  "assets/img/products/pulse-hoodie-mtv-x-urban-monkey-a-900.jpg",
+                                    "a1600":  "assets/img/products/pulse-hoodie-mtv-x-urban-monkey-a-1600.jpg",
+                                    "b900":  "assets/img/products/pulse-hoodie-mtv-x-urban-monkey-b-900.jpg",
+                                    "m1600":  "assets/img/products/pulse-hoodie-mtv-x-urban-monkey-m-1600.jpg",
+                                    "mBytes":  70272
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/pulse-hoodie_mtv-x-urban-monkey",
+                        "cut":  {
+                                    "a":  "assets/img/cut/pulse-hoodie-mtv-x-urban-monkey-a.webp",
+                                    "b":  "assets/img/cut/pulse-hoodie-mtv-x-urban-monkey-b.webp",
+                                    "lg":  "assets/img/cut/pulse-hoodie-mtv-x-urban-monkey-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "chimera-hoodie",
+                        "title":  "Chimera Hoodie",
+                        "type":  "Hoodies",
+                        "price":  1649,
+                        "compareAt":  2350,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "51209681207577",
+                                          "label":  "XS",
+                                          "available":  true,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681240345",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681273113",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681305881",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681338649",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681371417",
+                                          "label":  "2XL",
+                                          "available":  true,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681404185",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  1649
+                                      },
+                                      {
+                                          "id":  "51209681436953",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  1649
+                                      }
+                                  ],
+                        "description":  "The Chimera Hoodie takes the energy of the Chimera Tee by Moebius and brings it into a colder-weather staple. Crafted in jet-black brushed fleece, it carries the same surreal, mythic artwork that defined the tee, a bold creature woven from imagination, chaos, and movement. The front stays minimal with UM Core...",
+                        "img":  {
+                                    "a900":  "assets/img/products/chimera-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/chimera-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/chimera-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/chimera-hoodie-m-1600.jpg",
+                                    "mBytes":  76353
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/chimera-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/chimera-hoodie-a.webp",
+                                    "b":  "assets/img/cut/chimera-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/chimera-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "flow-cropped-hoodie-mtv-x-urban-monkey",
+                        "title":  "Flow Cropped Hoodie_MTV x Urban Monkey",
+                        "type":  "Hoodies",
+                        "price":  999,
+                        "compareAt":  1850,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "49772704268569",
+                                          "label":  "XS",
+                                          "available":  true,
+                                          "price":  999
+                                      },
+                                      {
+                                          "id":  "49772704301337",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  999
+                                      },
+                                      {
+                                          "id":  "49772704334105",
+                                          "label":  "M",
+                                          "available":  true,
+                                          "price":  999
+                                      },
+                                      {
+                                          "id":  "49772704366873",
+                                          "label":  "L",
+                                          "available":  true,
+                                          "price":  999
+                                      },
+                                      {
+                                          "id":  "49772704399641",
+                                          "label":  "XL",
+                                          "available":  true,
+                                          "price":  999
+                                      },
+                                      {
+                                          "id":  "49772704432409",
+                                          "label":  "2XL",
+                                          "available":  true,
+                                          "price":  999
+                                      }
+                                  ],
+                        "description":  "Mtv X Urban Monkey Cropped Hoodie Ã¢â‚¬â€œ Baby Pink. Pastel power with a punch. The 2.0 collection brings you the perfect mix of comfort and edge with this baby pink cropped hoodie. Designed for the bold and unapologetic, this loose-fit, female-specific hoodie is a tribute to the rising force of women in hip-hop and street...",
+                        "img":  {
+                                    "a900":  "assets/img/products/flow-cropped-hoodie-mtv-x-urban-monkey-a-900.jpg",
+                                    "a1600":  "assets/img/products/flow-cropped-hoodie-mtv-x-urban-monkey-a-1600.jpg",
+                                    "b900":  "assets/img/products/flow-cropped-hoodie-mtv-x-urban-monkey-b-900.jpg",
+                                    "m1600":  "assets/img/products/flow-cropped-hoodie-mtv-x-urban-monkey-m-1600.jpg",
+                                    "mBytes":  20195
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/flow-cropped-hoodie_mtv-x-urban-monkey",
+                        "cut":  {
+                                    "a":  "assets/img/cut/flow-cropped-hoodie-mtv-x-urban-monkey-a.webp",
+                                    "b":  "assets/img/cut/flow-cropped-hoodie-mtv-x-urban-monkey-b.webp",
+                                    "lg":  "assets/img/cut/flow-cropped-hoodie-mtv-x-urban-monkey-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "monkey-gang-hoodie",
+                        "title":  "Monkey Gang Hoodie",
+                        "type":  "Hoodies",
+                        "price":  1500,
+                        "compareAt":  2150,
+                        "available":  true,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "51209675243801",
+                                          "label":  "XS",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675276569",
+                                          "label":  "S",
+                                          "available":  true,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675309337",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675342105",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675374873",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675407641",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675440409",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      },
+                                      {
+                                          "id":  "51209675473177",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  1500
+                                      }
+                                  ],
+                        "description":  "The Monkey Gang Regular Hoodie celebrates the spirit of hum sab ek hai Ã¢â‚¬â€ weÃ¢â‚¬â„¢re all in this together. The hand-drawn back graphic captures the chaos, joy, and warmth of being with your crew.",
+                        "img":  {
+                                    "a900":  "assets/img/products/monkey-gang-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/monkey-gang-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/monkey-gang-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/monkey-gang-hoodie-m-1600.jpg",
+                                    "mBytes":  33475
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/monkey-gang-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/monkey-gang-hoodie-a.webp",
+                                    "b":  "assets/img/cut/monkey-gang-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/monkey-gang-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "future-hoodie",
+                        "title":  "Future Hoodie",
+                        "type":  "Hoodies",
+                        "price":  2850,
+                        "compareAt":  null,
+                        "available":  false,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "47299875012889",
+                                          "label":  "XS",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875176729",
+                                          "label":  "S",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875209497",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875242265",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875275033",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875307801",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875340569",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47299875373337",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      }
+                                  ],
+                        "description":  "Part of our Urbanmnky-SystmsÃ¢â€žÂ¢ collection, this tie-dye hoodie crafted from a weighty cotton blend, features two additional hidden zipper pockets for added utility and extra storage. These thoughtfully engineered zipper pockets make convenience take center stage. This piece was designed to be a part of your essential...",
+                        "img":  {
+                                    "a900":  "assets/img/products/future-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/future-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/future-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/future-hoodie-m-1600.jpg",
+                                    "mBytes":  40668
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/future-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/future-hoodie-a.webp",
+                                    "b":  "assets/img/cut/future-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/future-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "all-time-high-hoodie",
+                        "title":  "All-Time High Hoodie",
+                        "type":  "Hoodies",
+                        "price":  2850,
+                        "compareAt":  0,
+                        "available":  false,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "47346364023065",
+                                          "label":  "XS",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364350745",
+                                          "label":  "S",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364383513",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364416281",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364449049",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364481817",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364514585",
+                                          "label":  "3XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      },
+                                      {
+                                          "id":  "47346364547353",
+                                          "label":  "4XL",
+                                          "available":  false,
+                                          "price":  2850
+                                      }
+                                  ],
+                        "description":  "Celebrate personal victories, and milestones, and be at an all-time high with this playful and lighthearted hoodie crafted from a weighty cotton blend. Sprinkled with celestial assets from the UM design bank all over it, itÃ¢â‚¬â„¢s a cosmic masterpiece. This baby pink hoodie is our all-time favorite. You know why ;)",
+                        "img":  {
+                                    "a900":  "assets/img/products/all-time-high-hoodie-a-900.jpg",
+                                    "a1600":  "assets/img/products/all-time-high-hoodie-a-1600.jpg",
+                                    "b900":  "assets/img/products/all-time-high-hoodie-b-900.jpg",
+                                    "m1600":  "assets/img/products/all-time-high-hoodie-m-1600.jpg",
+                                    "mBytes":  47032
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/all-time-high-hoodie",
+                        "cut":  {
+                                    "a":  "assets/img/cut/all-time-high-hoodie-a.webp",
+                                    "b":  "assets/img/cut/all-time-high-hoodie-b.webp",
+                                    "lg":  "assets/img/cut/all-time-high-hoodie-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "cypher-hooded-zipper-jacket-mtv-x-urban-monkey",
+                        "title":  "Cypher Hooded Zipper Jacket_MTV x Urban Monkey",
+                        "type":  "Hoodies",
+                        "price":  1999,
+                        "compareAt":  2850,
+                        "available":  false,
+                        "oneSize":  false,
+                        "sizes":  [
+                                      {
+                                          "id":  "49772684673305",
+                                          "label":  "XS",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772684706073",
+                                          "label":  "S",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772684738841",
+                                          "label":  "M",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772684771609",
+                                          "label":  "L",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772684804377",
+                                          "label":  "XL",
+                                          "available":  false,
+                                          "price":  1999
+                                      },
+                                      {
+                                          "id":  "49772684837145",
+                                          "label":  "2XL",
+                                          "available":  false,
+                                          "price":  1999
+                                      }
+                                  ],
+                        "description":  "Mtv X Urban Monkey Hooded Zipper Jacket Ã¢â‚¬â€œ Green. After the overwhelming success of our first MTV x UM drop, weÃ¢â‚¬â„¢re back with 2.0Ã¢â‚¬â€bigger, bolder, and even more unapologetic. We\u0027ve joined forces with MTV once again to celebrate the spirit of Indian hip-hop and street culture. This green hooded zipper jacket channels the...",
+                        "img":  {
+                                    "a900":  "assets/img/products/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-a-900.jpg",
+                                    "a1600":  "assets/img/products/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-a-1600.jpg",
+                                    "b900":  "assets/img/products/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-b-900.jpg",
+                                    "m1600":  "assets/img/products/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-m-1600.jpg",
+                                    "mBytes":  79188
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/cypher-hooded-zipper-jacket_mtv-x-urban-monkey",
+                        "cut":  {
+                                    "a":  "assets/img/cut/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-a.webp",
+                                    "b":  "assets/img/cut/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-b.webp",
+                                    "lg":  "assets/img/cut/cypher-hooded-zipper-jacket-mtv-x-urban-monkey-lg.webp"
+                                }
+                    }
+                ],
+    "eyewear":  [
+                    {
+                        "id":  "airplane-mode-003",
+                        "title":  "Airplane Mode // 003",
+                        "type":  "Sunglasses",
+                        "price":  1650,
+                        "compareAt":  null,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "39606681829460",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  1650
+                                      }
+                                  ],
+                        "description":  "Your wish is our command! Introducing Airplane Mode // 003 featuring a nickle free stainless steel silver frame. You\u0027ll love this pair so much, we had to make them better and fully functional. Featuring TAC polarised, scratch resistant lenses, airplane mode sunglasses by Urban Monkey are nickel free makes them...",
+                        "img":  {
+                                    "a900":  "assets/img/products/airplane-mode-003-a-900.jpg",
+                                    "a1600":  "assets/img/products/airplane-mode-003-a-1600.jpg",
+                                    "b900":  "assets/img/products/airplane-mode-003-b-900.jpg",
+                                    "m1600":  "assets/img/products/airplane-mode-003-m-1600.jpg",
+                                    "mBytes":  88338
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/airplane-mode-003",
+                        "cut":  {
+                                    "a":  "assets/img/cut/airplane-mode-003-a.webp",
+                                    "b":  "assets/img/cut/airplane-mode-003-b.webp",
+                                    "lg":  "assets/img/cut/airplane-mode-003-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "phantom-002",
+                        "title":  "Phantom // 002",
+                        "type":  "Sports Glasses",
+                        "price":  1500,
+                        "compareAt":  0,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "49647337111833",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  1500
+                                      }
+                                  ],
+                        "description":  "Introducing the Urban Monkey Dual Vision Sport sunglasses, the perfect blend of style and versatility. Featuring a sleek frame with high-performance lenses, these shades offer superior UV protection and a bold, athletic look. What sets them apart is the additional transparent frame that comes with, allowing you to...",
+                        "img":  {
+                                    "a900":  "assets/img/products/phantom-002-a-900.jpg",
+                                    "a1600":  "assets/img/products/phantom-002-a-1600.jpg",
+                                    "b900":  "assets/img/products/phantom-002-b-900.jpg",
+                                    "m1600":  "assets/img/products/phantom-002-m-1600.jpg",
+                                    "mBytes":  27857
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/phantom-002",
+                        "cut":  {
+                                    "a":  "assets/img/cut/phantom-002-a.webp",
+                                    "b":  "assets/img/cut/phantom-002-b.webp",
+                                    "lg":  "assets/img/cut/phantom-002-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "retro-gangsta-clear-sunglasses-full-power-collection",
+                        "title":  "Retro Gangsta",
+                        "type":  "Sunglasses",
+                        "price":  1200,
+                        "compareAt":  null,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "21468742844500",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  1200
+                                      }
+                                  ],
+                        "description":  "For those who love a bold statement from a classic silhouette, look no further than the Retro Gangsta by Urban Monkey. This rimless, lightweight, high performance PC, transparent frames will add the right element of originality to any look. Not suitable for prescription lenses.",
+                        "img":  {
+                                    "a900":  "assets/img/products/retro-gangsta-clear-sunglasses-full-power-collection-a-900.jpg",
+                                    "a1600":  "assets/img/products/retro-gangsta-clear-sunglasses-full-power-collection-a-1600.jpg",
+                                    "b900":  "assets/img/products/retro-gangsta-clear-sunglasses-full-power-collection-b-900.jpg",
+                                    "m1600":  "assets/img/products/retro-gangsta-clear-sunglasses-full-power-collection-m-1600.jpg",
+                                    "mBytes":  15868
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/retro-gangsta-clear-sunglasses-full-power-collection",
+                        "cut":  {
+                                    "a":  "assets/img/cut/retro-gangsta-clear-sunglasses-full-power-collection-a.webp",
+                                    "b":  "assets/img/cut/retro-gangsta-clear-sunglasses-full-power-collection-b.webp",
+                                    "lg":  "assets/img/cut/retro-gangsta-clear-sunglasses-full-power-collection-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "cyclops-001",
+                        "title":  "Cyclops // 001",
+                        "type":  "Sports Glasses",
+                        "price":  1500,
+                        "compareAt":  null,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "49817013911833",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  1500
+                                      }
+                                  ],
+                        "description":  "Discover the Cyclops. A striking goggle-shaped frame. Embossed line detail. Modern energy. All black. Complete with a case and microfiber cloth for safekeeping.",
+                        "img":  {
+                                    "a900":  "assets/img/products/cyclops-001-a-900.jpg",
+                                    "a1600":  "assets/img/products/cyclops-001-a-1600.jpg",
+                                    "b900":  "assets/img/products/cyclops-001-b-900.jpg",
+                                    "m1600":  "assets/img/products/cyclops-001-m-1600.jpg",
+                                    "mBytes":  22535
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/cyclops-001",
+                        "cut":  {
+                                    "a":  "assets/img/cut/cyclops-001-a.webp",
+                                    "b":  "assets/img/cut/cyclops-001-b.webp",
+                                    "lg":  "assets/img/cut/cyclops-001-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "arctic-001",
+                        "title":  "Arctic // 001",
+                        "type":  "Sports Glasses",
+                        "price":  1850,
+                        "compareAt":  null,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "50029120225561",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  1850
+                                      }
+                                  ],
+                        "description":  "Chill in style with Arctic. These sunglasses are bold, cool, and as ice-cold as they come. With sharp lines and a bold aesthetic, Arctic frames add an edge to any outfit, ensuring you always look ahead of the curve.",
+                        "img":  {
+                                    "a900":  "assets/img/products/arctic-001-a-900.jpg",
+                                    "a1600":  "assets/img/products/arctic-001-a-1600.jpg",
+                                    "b900":  "assets/img/products/arctic-001-b-900.jpg",
+                                    "m1600":  "assets/img/products/arctic-001-m-1600.jpg",
+                                    "mBytes":  23729
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/arctic-001",
+                        "cut":  {
+                                    "a":  "assets/img/cut/arctic-001-a.webp",
+                                    "b":  "assets/img/cut/arctic-001-b.webp",
+                                    "lg":  "assets/img/cut/arctic-001-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "n-e-r-d",
+                        "title":  "Nerd // 002",
+                        "type":  "Eyeglasses",
+                        "price":  849,
+                        "compareAt":  1350,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "31248165044308",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  849
+                                      }
+                                  ],
+                        "description":  "N.E.R.D by Urban Monkey is a unisex metal + PC frame and our take on a modern-classic, easily the perfect accessory for outdoor festivals, cafÃƒÂ© crowds or ocean adventures. The frame is light-weight, features a streamlined full-rimmed design with clear/transparent lenses made distinctive by our signature clean lines....",
+                        "img":  {
+                                    "a900":  "assets/img/products/n-e-r-d-a-900.jpg",
+                                    "a1600":  "assets/img/products/n-e-r-d-a-1600.jpg",
+                                    "b900":  "assets/img/products/n-e-r-d-b-900.jpg",
+                                    "m1600":  "assets/img/products/n-e-r-d-m-1600.jpg",
+                                    "mBytes":  25721
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/n-e-r-d",
+                        "cut":  {
+                                    "a":  "assets/img/cut/n-e-r-d-a.webp",
+                                    "b":  "assets/img/cut/n-e-r-d-b.webp",
+                                    "lg":  "assets/img/cut/n-e-r-d-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "gold-digger-clear-af-sunglasses",
+                        "title":  "Gold Digger",
+                        "type":  "Eyeglasses",
+                        "price":  649,
+                        "compareAt":  1250,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "28630681813076",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  649
+                                      }
+                                  ],
+                        "description":  "For those who love a good staple, the Gold Diggers are a metal frame with gold finish that will fit with anyone\u0027s style. Stylishly sleek, clear/transparent lenses in a round silhouette is sure to bring any look to life. These full-rimmed, lightweight sunglasses is one of our earliest frames designed and released in...",
+                        "img":  {
+                                    "a900":  "assets/img/products/gold-digger-clear-af-sunglasses-a-900.jpg",
+                                    "a1600":  "assets/img/products/gold-digger-clear-af-sunglasses-a-1600.jpg",
+                                    "b900":  "assets/img/products/gold-digger-clear-af-sunglasses-b-900.jpg",
+                                    "m1600":  "assets/img/products/gold-digger-clear-af-sunglasses-m-1600.jpg",
+                                    "mBytes":  24372
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/gold-digger-clear-af-sunglasses",
+                        "cut":  {
+                                    "a":  "assets/img/cut/gold-digger-clear-af-sunglasses-a.webp",
+                                    "b":  "assets/img/cut/gold-digger-clear-af-sunglasses-b.webp",
+                                    "lg":  "assets/img/cut/gold-digger-clear-af-sunglasses-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "el-camino-001",
+                        "title":  "El Camino // 001",
+                        "type":  "Eyeglasses",
+                        "price":  699,
+                        "compareAt":  1350,
+                        "available":  true,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "32685613318228",
+                                          "label":  "Default Title",
+                                          "available":  true,
+                                          "price":  699
+                                      }
+                                  ],
+                        "description":  "Life is too short to wear boring sunglasses and our uber cool El Camino //001 are anything but boring! A top choice for the style hunter. These oversized, full-rimmed, rectangle Urban Monkey sunglasses, made with high performance metal + PC with transparent finish will be your go-to staple for years to come.",
+                        "img":  {
+                                    "a900":  "assets/img/products/el-camino-001-a-900.jpg",
+                                    "a1600":  "assets/img/products/el-camino-001-a-1600.jpg",
+                                    "b900":  "assets/img/products/el-camino-001-b-900.jpg",
+                                    "m1600":  "assets/img/products/el-camino-001-m-1600.jpg",
+                                    "mBytes":  21347
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/el-camino-001",
+                        "cut":  {
+                                    "a":  "assets/img/cut/el-camino-001-a.webp",
+                                    "b":  "assets/img/cut/el-camino-001-b.webp",
+                                    "lg":  "assets/img/cut/el-camino-001-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "dripped-out-002",
+                        "title":  "dripped out // 002",
+                        "type":  "Sunglasses",
+                        "price":  1650,
+                        "compareAt":  null,
+                        "available":  false,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "39606670065748",
+                                          "label":  "Default Title",
+                                          "available":  false,
+                                          "price":  1650
+                                      }
+                                  ],
+                        "description":  "The only shades you need this summer which truly work all year-round! Whether you\u0027re a serial sunglasses wearer or you\u0027re simply looking for a pair to elevate your sunny days out, spent in parks and gardens, this all new limited edition, timeless pair is the one. Fully dripped-out in silver frames, this limited...",
+                        "img":  {
+                                    "a900":  "assets/img/products/dripped-out-002-a-900.jpg",
+                                    "a1600":  "assets/img/products/dripped-out-002-a-1600.jpg",
+                                    "b900":  "assets/img/products/dripped-out-002-b-900.jpg",
+                                    "m1600":  "assets/img/products/dripped-out-002-m-1600.jpg",
+                                    "mBytes":  110348
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/dripped-out-002",
+                        "cut":  {
+                                    "a":  "assets/img/cut/dripped-out-002-a.webp",
+                                    "b":  "assets/img/cut/dripped-out-002-b.webp",
+                                    "lg":  "assets/img/cut/dripped-out-002-lg.webp"
+                                }
+                    },
+                    {
+                        "id":  "chunkies-001",
+                        "title":  "Chunkies // 001",
+                        "type":  "Sunglasses",
+                        "price":  1850,
+                        "compareAt":  null,
+                        "available":  false,
+                        "oneSize":  true,
+                        "sizes":  [
+                                      {
+                                          "id":  "49169145200921",
+                                          "label":  "Default Title",
+                                          "available":  false,
+                                          "price":  1850
+                                      }
+                                  ],
+                        "description":  "With its bold, boxy shape and ultra-thick frames, you canÃ¢â‚¬â„¢t go wrong with these classic black Chunkies. These frames don\u0027t discriminate Ã¢â‚¬â€œ they look fantastic on every face, treating each one fairly and squarely ;) Perfect for everyday use, these frames are designed for the true style icon in you. Complete with a...",
+                        "img":  {
+                                    "a900":  "assets/img/products/chunkies-001-a-900.jpg",
+                                    "a1600":  "assets/img/products/chunkies-001-a-1600.jpg",
+                                    "b900":  "assets/img/products/chunkies-001-b-900.jpg",
+                                    "m1600":  "assets/img/products/chunkies-001-m-1600.jpg",
+                                    "mBytes":  77750
+                                },
+                        "href":  "https://www.urbanmonkey.com/products/chunkies-001",
+                        "cut":  {
+                                    "a":  "assets/img/cut/chunkies-001-a.webp",
+                                    "b":  "assets/img/cut/chunkies-001-b.webp",
+                                    "lg":  "assets/img/cut/chunkies-001-lg.webp"
+                                }
+                    }
+                ]
+}

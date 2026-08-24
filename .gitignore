@@ -1,0 +1,37 @@
+# secrets — never commit
+.env
+.env.*
+
+# dependencies
+node_modules/
+
+# local build scratch
+_deploy/
+_lite/
+_min/
+_ship/
+_shards/
+_capture/
+
+# packaged builds
+*.zip
+
+# local tooling (not needed to run or deploy the site)
+package.json
+package-lock.json
+compress.js
+build-deploy.js
+build-min.js
+make-shards.js
+check.js
+test-tools.js
+server.js
+serve.ps1
+*.bat
+*.pdf
+
+# vercel
+.vercel/
+# editor/session
+.claude/
+presentation/

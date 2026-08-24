@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Urban Monkey® — Caps, Hoodies & Eyewear</title>
+<meta name="description" content="Urban Monkey — Indian streetwear. Caps, hoodies and eyewear, shot like a campaign. Shop the drop and try it on in your browser.">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="assets/img/brand/um-mark.png">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="preload" as="image" href="assets/img/brand/um-mark.png">
+</head>
+<body class="is-loading">
+
+<!-- 1. clean ground → 2. mark → 3. hero → 4. nav -->
+<div id="loader">
+  <img class="loader-mark" src="assets/img/brand/um-mark.png" alt="Urban Monkey" width="124" height="124">
+  <div class="loader-word"><img src="assets/img/brand/um-logo.svg" alt=""></div>
+  <span class="loader-bar"></span>
+</div>
+
+<main>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="hero__media">
+      <video id="heroVid" muted playsinline autoplay loop preload="auto" poster="assets/img/products/brunch-club-m-1600.jpg">
+        <source src="assets/video/v3-img4926.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="hero__scrim"></div>
+    <div class="hero__inner">
+      <h1 class="h-mega hero__title">
+        <span><b>Worn on</b></span>
+        <span><b>the street</b></span>
+      </h1>
+      <div class="hero__meta">
+        <p class="lede" style="max-width:34ch">Caps, hoodies and eyewear built for Indian streets — and a fitting room that lives in your camera.</p>
+        <nav class="hero__cats" aria-label="Shop categories">
+          <a href="#caps">Caps</a>
+          <a href="#hoodies">Hoodies</a>
+          <a href="#eyewear">Eyewear</a>
+          <a href="try.html" data-nav>Try &amp; Use</a>
+        </nav>
+      </div>
+    </div>
+    <div class="scroll-cue"><i></i> Scroll</div>
+  </section>
+
+  <!-- ============ BRAND INTRO (layered) ============ -->
+  <section class="sec intro">
+    <div class="wrap intro__grid">
+      <div class="intro__copy">
+        <p class="eyebrow rv">One brand · three experiences</p>
+        <h2 class="h-big rv-mask"><span>Street<br>issue</span></h2>
+        <p class="lede rv" data-delay="2" style="margin-top:26px">
+          Skate, hip-hop, art, photography. Urban Monkey has dressed the Indian street since 2015 —
+          headwear first, then everything that goes with it.
+        </p>
+      </div>
+      <div class="intro__media rv-img" data-px="0.1">
+        <video data-lazy="assets/video/v5-um-script.mp4" data-loop muted playsinline preload="none"></video>
+      </div>
+      <div class="intro__badge rv" data-delay="3">
+        <b>60</b><span>Pieces in this drop</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- category sections are composed here -->
+  <div id="cats"></div>
+
+  <!-- ============ TRY & USE ============ -->
+  <section class="tryhi" id="tryhi">
+    <div class="tryhi__media">
+      <video data-lazy="assets/video/v6-ai-advertising.mp4" data-loop muted playsinline preload="none"></video>
+    </div>
+    <div class="tryhi__scrim"></div>
+    <div class="tryhi__inner">
+      <div class="tryhi__box">
+        <p class="eyebrow rv">Try &amp; Use</p>
+        <h2 class="h-big rv-mask"><span>See it on<br>your face</span></h2>
+        <p class="lede rv" data-delay="2" style="margin-top:24px">
+          Turn on your camera and the cap sits on your head, the shades on your face,
+          the hoodie on your shoulders — tracked live, in the browser. No app, nothing uploaded.
+        </p>
+        <ol class="tryhi__steps rv" data-delay="3">
+          <li><b>01</b><p>Allow the camera, or drop in a photo.</p></li>
+          <li><b>02</b><p>Pick any cap, hoodie or pair of shades.</p></li>
+          <li><b>03</b><p>Move around. It follows you.</p></li>
+        </ol>
+        <p class="rv" data-delay="4" style="margin-top:36px">
+          <a class="btn btn--solid" href="try.html" data-nav>Open Try &amp; Use →</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FEATURED ============ -->
+  <section class="sec" id="featured">
+    <div class="wrap">
+      <div class="cat__head">
+        <div>
+          <p class="eyebrow rv">Selected</p>
+          <h2 class="h-big rv-mask"><span>In stock now</span></h2>
+        </div>
+        <span class="cat__count rv" data-delay="2">Ready to ship</span>
+      </div>
+      <div class="pgrid" id="featGrid"></div>
+    </div>
+  </section>
+
+</main>
+
+<script src="data/catalog.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
